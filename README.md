@@ -16,6 +16,7 @@
 
 **Stack**
 - [16 - Valid Parentheses](./stack/valid_parentheses.py)
+- [17 - Minimum Stack](./stack/minimum_stack.py)
 
 ## Resources
 
